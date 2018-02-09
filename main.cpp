@@ -19,6 +19,6 @@ int main() {
             hangman.AddError();
         }
     }
-    std::cout << "Congratulations, you've found the world!\n";
+    std::cout << "Congratulations, you've found the word!\n";
     return 0;
 }
